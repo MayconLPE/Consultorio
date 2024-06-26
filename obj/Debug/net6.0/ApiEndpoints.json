@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Consultorio.Controller.AgendamentoController",
+    "Method": "Get",
+    "RelativePath": "api/Agendamento",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
