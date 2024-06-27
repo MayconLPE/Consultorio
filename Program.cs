@@ -1,4 +1,5 @@
 using Consultorio.Controller;
+using Consultorio.Services;
 using Microsoft.AspNetCore.Mvc.ApplicationParts;
 
 namespace Consultorio
@@ -27,6 +28,9 @@ namespace Consultorio
             app.UseHttpsRedirection();
             app.UseAuthentication();
             app.MapControllers();
+
+            services.AddScoped<IEmailService, EmailService>();
+
 
             app.Run();
         }

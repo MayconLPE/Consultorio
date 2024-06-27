@@ -442,11 +442,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\windows\\Desktop\\DEV\\Consultorio\\Consultorio\\Consultorio.csproj",
+      "projectUniqueName": "C:\\Users\\windows\\Desktop\\DEV\\Consultorio\\Consultorio.csproj",
       "projectName": "Consultorio",
-      "projectPath": "C:\\Users\\windows\\Desktop\\DEV\\Consultorio\\Consultorio\\Consultorio.csproj",
+      "projectPath": "C:\\Users\\windows\\Desktop\\DEV\\Consultorio\\Consultorio.csproj",
       "packagesPath": "C:\\Users\\windows\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\windows\\Desktop\\DEV\\Consultorio\\Consultorio\\obj\\",
+      "outputPath": "C:\\Users\\windows\\Desktop\\DEV\\Consultorio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
