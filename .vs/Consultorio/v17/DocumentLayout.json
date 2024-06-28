@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{2AC4214F-D195-46A2-B149-00271BA737BF}|Consultorio.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2AC4214F-D195-46A2-B149-00271BA737BF}|Consultorio.csproj|c:\\users\\windows\\desktop\\dev\\consultorio\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2AC4214F-D195-46A2-B149-00271BA737BF}|Consultorio.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC4214F-D195-46A2-B149-00271BA737BF}|Consultorio.csproj|c:\\users\\windows\\desktop\\dev\\consultorio\\context\\consultoriocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC4214F-D195-46A2-B149-00271BA737BF}|Consultorio.csproj|solutionrelative:context\\consultoriocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2AC4214F-D195-46A2-B149-00271BA737BF}|Consultorio.csproj|c:\\users\\windows\\desktop\\dev\\consultorio\\controller\\agendamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AC4214F-D195-46A2-B149-00271BA737BF}|Consultorio.csproj|solutionrelative:controller\\agendamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +54,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\DEV\\Consultorio\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\windows\\Desktop\\DEV\\Consultorio\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-28T00:01:56.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsultorioContext.cs",
+              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\DEV\\Consultorio\\context\\ConsultorioContext.cs",
+              "RelativeDocumentMoniker": "context\\ConsultorioContext.cs",
+              "ToolTip": "C:\\Users\\windows\\Desktop\\DEV\\Consultorio\\context\\ConsultorioContext.cs",
+              "RelativeToolTip": "context\\ConsultorioContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T23:45:11.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "IEmailService.cs",
               "DocumentMoniker": "C:\\Users\\windows\\Desktop\\DEV\\Consultorio\\Services\\IEmailService.cs",
               "RelativeDocumentMoniker": "Services\\IEmailService.cs",
@@ -59,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "EmailService.cs",
               "DocumentMoniker": "C:\\Users\\windows\\Desktop\\DEV\\Consultorio\\Services\\EmailService.cs",
               "RelativeDocumentMoniker": "Services\\EmailService.cs",
@@ -72,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\windows\\Desktop\\DEV\\Consultorio\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -85,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Agendamento.cs",
               "DocumentMoniker": "C:\\Users\\windows\\Desktop\\DEV\\Consultorio\\Models\\Entities\\Agendamento.cs",
               "RelativeDocumentMoniker": "Models\\Entities\\Agendamento.cs",
@@ -104,26 +138,25 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\windows\\Desktop\\DEV\\Consultorio\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAswCIAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-25T17:49:56.771Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\windows\\Desktop\\DEV\\Consultorio\\Consultorio\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "Consultorio\\WeatherForecast.cs",
               "ToolTip": "C:\\Users\\windows\\Desktop\\DEV\\Consultorio\\Consultorio\\WeatherForecast.cs",
               "RelativeToolTip": "Consultorio\\WeatherForecast.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-25T17:48:20.547Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AgendamentoController.cs",
               "DocumentMoniker": "C:\\Users\\windows\\Desktop\\DEV\\Consultorio\\Controller\\AgendamentoController.cs",
               "RelativeDocumentMoniker": "Controller\\AgendamentoController.cs",
@@ -143,6 +176,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
