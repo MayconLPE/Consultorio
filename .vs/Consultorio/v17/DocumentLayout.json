@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\windows\\Desktop\\DEV\\Consultorio\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2AC4214F-D195-46A2-B149-00271BA737BF}|Consultorio.csproj|c:\\users\\windows\\desktop\\dev\\consultorio\\context\\consultoriocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC4214F-D195-46A2-B149-00271BA737BF}|Consultorio.csproj|solutionrelative:context\\consultoriocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC4214F-D195-46A2-B149-00271BA737BF}|Consultorio.csproj|c:\\users\\windows\\desktop\\dev\\consultorio\\models\\entities\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC4214F-D195-46A2-B149-00271BA737BF}|Consultorio.csproj|solutionrelative:models\\entities\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2AC4214F-D195-46A2-B149-00271BA737BF}|Consultorio.csproj|c:\\users\\windows\\desktop\\dev\\consultorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AC4214F-D195-46A2-B149-00271BA737BF}|Consultorio.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AC4214F-D195-46A2-B149-00271BA737BF}|Consultorio.csproj|c:\\users\\windows\\desktop\\dev\\consultorio\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2AC4214F-D195-46A2-B149-00271BA737BF}|Consultorio.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\windows\\Desktop\\DEV\\Consultorio\\Migrations\\20240702000515_PrimeiraMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240702000515_PrimeiraMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AC4214F-D195-46A2-B149-00271BA737BF}|Consultorio.csproj|c:\\users\\windows\\desktop\\dev\\consultorio\\context\\consultoriocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AC4214F-D195-46A2-B149-00271BA737BF}|Consultorio.csproj|solutionrelative:context\\consultoriocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2AC4214F-D195-46A2-B149-00271BA737BF}|Consultorio.csproj|c:\\users\\windows\\desktop\\dev\\consultorio\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2AC4214F-D195-46A2-B149-00271BA737BF}|Consultorio.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2AC4214F-D195-46A2-B149-00271BA737BF}|Consultorio.csproj|c:\\users\\windows\\desktop\\dev\\consultorio\\controller\\agendamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2AC4214F-D195-46A2-B149-00271BA737BF}|Consultorio.csproj|c:\\users\\windows\\desktop\\dev\\consultorio\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AC4214F-D195-46A2-B149-00271BA737BF}|Consultorio.csproj|solutionrelative:services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AC4214F-D195-46A2-B149-00271BA737BF}|Consultorio.csproj|c:\\users\\windows\\desktop\\dev\\consultorio\\models\\entities\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AC4214F-D195-46A2-B149-00271BA737BF}|Consultorio.csproj|solutionrelative:models\\entities\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2AC4214F-D195-46A2-B149-00271BA737BF}|Consultorio.csproj|c:\\users\\windows\\desktop\\dev\\consultorio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -46,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\windows\\Desktop\\DEV\\Consultorio\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -67,20 +71,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ConsultorioContext.cs",
               "DocumentMoniker": "C:\\Users\\windows\\Desktop\\DEV\\Consultorio\\context\\ConsultorioContext.cs",
               "RelativeDocumentMoniker": "context\\ConsultorioContext.cs",
               "ToolTip": "C:\\Users\\windows\\Desktop\\DEV\\Consultorio\\context\\ConsultorioContext.cs",
               "RelativeToolTip": "context\\ConsultorioContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wBgAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-27T23:45:11.522Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "IEmailService.cs",
               "DocumentMoniker": "C:\\Users\\windows\\Desktop\\DEV\\Consultorio\\Services\\IEmailService.cs",
               "RelativeDocumentMoniker": "Services\\IEmailService.cs",
@@ -93,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "EmailService.cs",
               "DocumentMoniker": "C:\\Users\\windows\\Desktop\\DEV\\Consultorio\\Services\\EmailService.cs",
               "RelativeDocumentMoniker": "Services\\EmailService.cs",
@@ -106,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\windows\\Desktop\\DEV\\Consultorio\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -119,33 +123,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Agendamento.cs",
               "DocumentMoniker": "C:\\Users\\windows\\Desktop\\DEV\\Consultorio\\Models\\Entities\\Agendamento.cs",
               "RelativeDocumentMoniker": "Models\\Entities\\Agendamento.cs",
               "ToolTip": "C:\\Users\\windows\\Desktop\\DEV\\Consultorio\\Models\\Entities\\Agendamento.cs",
               "RelativeToolTip": "Models\\Entities\\Agendamento.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-27T00:10:45.045Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\windows\\Desktop\\DEV\\Consultorio\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\windows\\Desktop\\DEV\\Consultorio\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAmAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBgAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-25T17:49:56.771Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\windows\\Desktop\\DEV\\Consultorio\\Consultorio\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "Consultorio\\WeatherForecast.cs",
@@ -156,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "AgendamentoController.cs",
               "DocumentMoniker": "C:\\Users\\windows\\Desktop\\DEV\\Consultorio\\Controller\\AgendamentoController.cs",
               "RelativeDocumentMoniker": "Controller\\AgendamentoController.cs",
@@ -171,11 +175,24 @@
         },
         {
           "DockedWidth": 19,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240702000515_PrimeiraMigration.cs",
+              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\DEV\\Consultorio\\Migrations\\20240702000515_PrimeiraMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240702000515_PrimeiraMigration.cs",
+              "ToolTip": "C:\\Users\\windows\\Desktop\\DEV\\Consultorio\\Migrations\\20240702000515_PrimeiraMigration.cs",
+              "RelativeToolTip": "Migrations\\20240702000515_PrimeiraMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T00:05:15.74Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
